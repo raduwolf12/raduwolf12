@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=raduwolf12) -->
+![](https://visitor-badge.glitch.me/badge?page_id=raduwolf12)
 
 - 🔭 I’m currently working on an autonomus driving car project
 - 📫 How to reach me: Mail me <rtaraburca@yahoo.com>
