@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on an autonomus driving car project
 - 📫 How to reach me: Mail me <rtaraburca@yahoo.com>
 
-![Radu's github stats](https://github-readme-stats.vercel.app/api?username=raduwolf12&count_private=true&show_icons=true&theme=radical)
+<!-- ![Radu's github stats](https://github-readme-stats.vercel.app/api?username=raduwolf12&count_private=true&show_icons=true&theme=radical) -->
 
 
 ### **Languages and Tools**
@@ -66,12 +66,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
+<!-- ---
 
-<details>
-<summary>GitHub stats</summary>
+<details> -->
+<!-- <summary>GitHub stats</summary> -->
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raduwolf12&langs_count=11)
-<br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raduwolf12&repo=Vacantion-planer)](https://github.com/raduwolf12/Vacantion-planer)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raduwolf12&langs_count=11) -->
+<!-- <br> -->
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raduwolf12&repo=Vacantion-planer)](https://github.com/raduwolf12/Vacantion-planer) -->
  
