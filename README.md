@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ![](https://visitor-badge.glitch.me/badge?page_id=raduwolf12)
 
-- 🔭 I’m currently working on an autonomus driving car project
+- 🔭 I'm currently doing my masters degree
 - 📫 How to reach me: Mail me <rtaraburca@yahoo.com>
 
 ![Radu's github stats](https://github-readme-stats.vercel.app/api?username=raduwolf12&count_private=true&show_icons=true&theme=radical)
