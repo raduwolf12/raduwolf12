@@ -49,6 +49,11 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,cpp,anaconda,aws,bash,eclipse,elasticsearch,grafana,html,java,js,jenkins,linux,mongodb,mysql,nodejs,npm,obsidian,postgres,postman,powershell,py,pytorch,raspberrypi,terraform,tensorflow" />
+  </a>
+</p>
 
 
 <!--
