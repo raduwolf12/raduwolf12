@@ -1,15 +1,34 @@
 ### Hi there 👋 
-![](https://visitor-badge.glitch.me/badge?page_id=raduwolf12)
-
-- 🔭 I'm currently doing my masters degree
+<!--![](https://visitor-badge.glitch.me/badge?page_id=raduwolf12)-->
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<img src="https://komarev.com/ghpvc/?username=raduwolf12&label=Profile%20views&color=0e75b6&style=flat"
+    alt="raduwolf12" /> 
+- 🔭 I'm currently doing my master's degree
 - 📫 How to reach me: Mail me <rtaraburca@yahoo.com>
-
-![Radu's github stats](https://github-readme-stats.vercel.app/api?username=raduwolf12&count_private=true&show_icons=true&theme=radical)
-
 
 ### **Languages and Tools**
 
-#### Languages & Frameworks
+### DevOps and Automation
+- ![DevOps and Automation](https://skillicons.dev/icons?i=git,kubernetes,docker,bash,jenkins,terraform,aws)
+
+### Software Development
+- ![Software Development](https://skillicons.dev/icons?i=java,py,js,nodejs,bash,cpp,eclipse,pytorch,tensorflow)
+
+### Database Management
+- ![Database Management](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+
+### Cloud Computing and Deployment
+- ![Cloud Computing and Deployment](https://skillicons.dev/icons?i=aws,terraform,firebase)
+
+### Web and Mobile Development
+- ![Web and Mobile Development](https://skillicons.dev/icons?i=html,js,vue,nodejs,java,kotlin,raspberrypi)
+
+### Other Tools and Technologies
+- ![Other Tools and Technologies](https://skillicons.dev/icons?i=windows,linux,obsidian,postman,grafana,elasticsearch,powershell)
+
+
+
+<!-- #### Languages & Frameworks
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" title="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -23,8 +42,8 @@
 
 #### Frontend  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
-<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
+<!-- <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -55,7 +74,7 @@
   </a>
 </p>
 
-
+-->
 <!--
 **raduwolf12/raduwolf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -73,10 +92,14 @@ Here are some ideas to get you started:
 
 ---
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=raduwolf12&count_private=true&show_icons=true&theme=radical" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raduwolf12&langs_count=6&theme=radical"/>
+</div>
+<!--
 <details>
 <summary>GitHub stats</summary>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raduwolf12&langs_count=11)
-<br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=raduwolf12&repo=Vacantion-planer)](https://github.com/raduwolf12/Vacantion-planer)
+-->
  
