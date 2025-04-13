@@ -38,8 +38,8 @@
 
 ### 🧠 AI / Machine Learning
 ![AI / Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda)
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" />
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" />
+
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" /> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" />
 <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter" />
 
 ---
@@ -56,6 +56,7 @@
 
 ### 🛠️ DevOps & Infrastructure
 ![DevOps & Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,ansible,kafka,nginx)
+
 <img src="https://img.shields.io/badge/-CI%2FCD-blueviolet" />
 
 ---
