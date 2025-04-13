@@ -3,15 +3,18 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img src="https://komarev.com/ghpvc/?username=raduwolf12&label=Profile%20views&color=0e75b6&style=flat"
     alt="raduwolf12" /> 
-- 🔭 I'm currently doing my master's degree
-- 📫 How to reach me: Mail me <rtaraburca@yahoo.com>
 
+- 👨‍💻 I'm a software developer with a passion for AI and intelligent systems
+- 🎓 Graduated with my master's degree in 2024
+- 🌱 Constantly exploring AI/ML, data engineering, and scalable backend systems
+- 📫 How to reach me: Mail me <rtaraburca@yahoo.com>
+<!--
 ### **Languages and Tools**
 
 ### DevOps and Automation
 - ![DevOps and Automation](https://skillicons.dev/icons?i=git,kubernetes,docker,bash,jenkins,terraform,aws)
 
-### Software Development
+### 🧠 Software Development
 - ![Software Development](https://skillicons.dev/icons?i=java,py,js,nodejs,bash,cpp,eclipse,pytorch,tensorflow)
 
 ### Database Management
@@ -25,8 +28,56 @@
 
 ### Other Tools and Technologies
 - ![Other Tools and Technologies](https://skillicons.dev/icons?i=windows,linux,obsidian,postman,grafana,elasticsearch,powershell)
+-->
+## 🧠 Languages and Tools
 
+### 🔧 Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=py,java,js,ts,cpp,kotlin,bash,powershell,spring)
 
+---
+
+### 🧠 AI / Machine Learning
+![AI / Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,anaconda)
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas" />
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy" />
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter" />
+
+---
+
+### 🌐 Web Development
+![Web Development](https://skillicons.dev/icons?i=html,css,vue,angular,nodejs,express)
+
+---
+
+### 📱 Mobile Development
+![Mobile Development](https://skillicons.dev/icons?i=kotlin,java)
+
+---
+
+### 🛠️ DevOps & Infrastructure
+![DevOps & Infrastructure](https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,ansible,kafka,nginx)
+<img src="https://img.shields.io/badge/-CI%2FCD-blueviolet" />
+
+---
+
+### ☁️ Cloud Platforms
+![Cloud Platforms](https://skillicons.dev/icons?i=aws,firebase,azure,gcp,netlify,supabase)
+
+---
+
+### 🛢️ Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis)
+
+---
+
+### 📊 Monitoring & Tools
+![Monitoring & Tools](https://skillicons.dev/icons?i=grafana,elasticsearch,postman,prometheus)
+<img src="https://img.shields.io/badge/-Kibana-005571?style=flat-square&logo=kibana" />
+
+---
+
+### 🧰 Other Tools
+![Other Tools](https://skillicons.dev/icons?i=git,linux,windows,obsidian,eclipse,raspberrypi,maven,gradle,npm,sublime,visualstudio,vscode)
 
 <!-- #### Languages & Frameworks
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
